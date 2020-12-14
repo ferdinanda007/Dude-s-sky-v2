@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 1c90d8043ae37814089787920807a183
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8268720291215360194
+    second: BussinessMenGroup_0
+  - first:
+      213: -7889707692053039232
+    second: BussinessMenGroup_1
+  - first:
+      213: -8589022176516460245
+    second: BussinessMenGroup_2
+  - first:
+      213: -4108441159667455196
+    second: BussinessMenGroup_3
+  - first:
+      213: -6165748415121297337
+    second: BussinessMenGroup_4
+  - first:
+      213: 7324380903744982468
+    second: BussinessMenGroup_5
+  - first:
+      213: -4435212562235201709
+    second: BussinessMenGroup_6
+  - first:
+      213: -3304088651307081696
+    second: BussinessMenGroup_7
+  - first:
+      213: -511333002683200200
+    second: BussinessMenGroup_8
+  - first:
+      213: 6561900016369612307
+    second: BussinessMenGroup_9
+  - first:
+      213: -1220061799155057541
+    second: BussinessMenGroup_10
+  - first:
+      213: 7454495683635959597
+    second: BussinessMenGroup_11
+  - first:
+      213: -5153455748550821400
+    second: BussinessMenGroup_12
+  - first:
+      213: 1401327141903265624
+    second: BussinessMenGroup_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BussinessMenGroup_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 263
+        width: 55
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698aaf48db6775f41a30fa34b6d43b77
+      internalID: -8268720291215360194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 263
+        width: 66
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf5b1c6c0d51824389f5f9e5e4e03a4
+      internalID: -7889707692053039232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 263
+        width: 66
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8d2a6b48da22f42a38ecce946411db
+      internalID: -8589022176516460245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 264
+        width: 73
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d76879a5fb54b45820da596cc5cbdc
+      internalID: -4108441159667455196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 263
+        width: 67
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce6a8415f4b93479ef466a743352b6
+      internalID: -6165748415121297337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 263
+        width: 80
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f13b82ea5756334b997806999fbd340
+      internalID: 7324380903744982468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 262
+        width: 84
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad8f70d8290ec439bbd85cc14cddaf
+      internalID: -4435212562235201709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 78
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12758f0487556448808f2f7f2bcfaf8
+      internalID: -3304088651307081696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 30
+        width: 47
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a94a89a9f50243af7ed6e09c8e538
+      internalID: -511333002683200200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 30
+        width: 75
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac110c4863c7040822bf713131cfd5
+      internalID: 6561900016369612307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 29
+        width: 57
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a134467dcd21e4b938ea3895a0e0ad
+      internalID: -1220061799155057541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 28
+        width: 51
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45405bc4935b07e4798825994b1ad933
+      internalID: 7454495683635959597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 30
+        width: 48
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607b3c66d20edd84f9d092222930d654
+      internalID: -5153455748550821400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BussinessMenGroup_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 30
+        width: 50
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619baf5978721a43a9c782d7170fcac
+      internalID: 1401327141903265624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2b60f2baad4313047b161f6f7a45a2c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

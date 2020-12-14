@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Scene 1 (Motion Telkom).unity
+    guid: 6f02ce4436ef8704a987777e3f34a268
+  - enabled: 1
+    path: Assets/Scene/Scene 2 (Motion Logo Dev) Ferdinand.unity
+    guid: 4e7ac042c8af7134b83477272a4454f4
+  - enabled: 1
+    path: Assets/Scene/Scene 3 (Main Menu) Adnin.unity
+    guid: fb82daef3a8b2b744a5ff6249b325c5d
+  - enabled: 1
+    path: Assets/Scene/Scene4(Unity)Gilang.unity
+    guid: e6486d7897d30fb42b2692fbe737e2aa
+  - enabled: 1
+    path: Assets/Zetcil/Controller/Game Controller/Loading/Scene/ZetLoadingScreen.unity
+    guid: f76ec0fd530892747a9f77a5aeed0da3
+  m_configObjects: {}
