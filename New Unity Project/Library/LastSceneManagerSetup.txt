@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scene/Scene4(Unity)Gilang.unity
+- path: Assets/Scene/Scene 3 (Main Menu) Adnin.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
